@@ -1,0 +1,19 @@
+# Ignore IDE-specific settings
+nbproject/
+.vscode/
+.idea/
+
+# Ignore build artifacts
+*.out
+*.exe
+*.o
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore environment configuration files
+.env
